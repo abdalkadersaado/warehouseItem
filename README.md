@@ -1,3 +1,12 @@
+## for Run Project :
+- 1- composer install
+- 2- create database - example:test-prokoder
+- 3- copy .env.example .env
+- 4- php artisan key:generate
+- 5- php artisan migrate 
+- 6- php artisan db:seed
+- 7- php artisan serve
+- 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
